@@ -1,0 +1,14 @@
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\bin\Debug\net8.0\oop-assignment-1-2025-72672.exe
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\bin\Debug\net8.0\oop-assignment-1-2025-72672.deps.json
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\bin\Debug\net8.0\oop-assignment-1-2025-72672.runtimeconfig.json
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\bin\Debug\net8.0\oop-assignment-1-2025-72672.dll
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\bin\Debug\net8.0\oop-assignment-1-2025-72672.pdb
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\oop-assignment-1-2025-72672.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\oop-assignment-1-2025-72672.AssemblyInfoInputs.cache
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\oop-assignment-1-2025-72672.AssemblyInfo.cs
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\oop-assignment-1-2025-72672.csproj.CoreCompileInputs.cache
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\oop-assignment-1-2025-72672.dll
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\refint\oop-assignment-1-2025-72672.dll
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\oop-assignment-1-2025-72672.pdb
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\oop-assignment-1-2025-72672.genruntimeconfig.cache
+C:\Users\osmar\source\repos\oop-assignment-1-2025-72672\oop-assignment-1-2025-72672\obj\Debug\net8.0\ref\oop-assignment-1-2025-72672.dll

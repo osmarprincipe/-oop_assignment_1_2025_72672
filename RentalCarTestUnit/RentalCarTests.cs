@@ -1,27 +1,27 @@
 using oop_assignment_1_2025_72672.Models;
 
-namespace RentalCarTestUni
+namespace RentalCarTestUnit
 {
-    public class UnitTest1
+    public class RentalCarTests
     {
-       
-        
-          private RentalCar CreateDefaultRentalCar(bool borrowed = false)
-          {
-                return new RentalCar("BMW", "X1", "SUV", "202-D-11111", 90.0, borrowed);
-          }
 
-          [Fact]
-           public void Constructor_Properties_Are_Set_Correctly()
-           {
-             var rentalcar = CreateDefaultRentalCar();
 
-             Assert.Equal("BMW", rentalcar.Manufacturer);
-             Assert.Equal("X1", rentalcar.Model);
-             Assert.Equal("SUV", rentalcar.BodyType);
-             Assert.Equal("202-D-11111", rentalcar.RegistrationNumber);
-             Assert.Equal(90.0, rentalcar.Price);
-           }
+        private RentalCar CreateDefaultRentalCar(bool borrowed = false)
+        {
+            return new RentalCar("BMW", "X1", "SUV", "202-D-11111", 90.0, borrowed);
+        }
+
+        [Fact]
+        public void Constructor_Properties_Are_Set_Correctly()
+        {
+            var rentalcar = CreateDefaultRentalCar();
+
+            Assert.Equal("BMW", rentalcar.Manufacturer);
+            Assert.Equal("X1", rentalcar.Model);
+            Assert.Equal("SUV", rentalcar.BodyType);
+            Assert.Equal("202-D-11111", rentalcar.RegistrationNumber);
+            Assert.Equal(90.0, rentalcar.Price);
+        }
 
         [Fact]
         public void Constructor_Empty_Manufacturer_ThrowsArgumentException()
@@ -58,10 +58,10 @@ namespace RentalCarTestUni
             var car = CreateDefaultRentalCar(borrowed: false);
 
             // Act
-            bool bookingSucceeded = car.Borrow();   
+            bool bookingSucceeded = car.Borrow();
 
             // Assert
-            Assert.True(bookingSucceeded);          
+            Assert.True(bookingSucceeded);
             Assert.True(car.Borrowed);
             Assert.True(car.CheckBorrowed());
         }
@@ -135,7 +135,7 @@ namespace RentalCarTestUni
             // Act + Assert
             Assert.False(car.CheckBorrowed());
 
-            car.Borrow(); 
+            car.Borrow();
 
             Assert.True(car.CheckBorrowed());
         }

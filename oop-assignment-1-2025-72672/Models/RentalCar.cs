@@ -30,7 +30,7 @@ namespace oop_assignment_1_2025_72672.Models
             BodyType = bodyType;
             RegistrationNumber = registrationNumber;
             Price = price;
-            Borrowed = borrowed;    
+            Borrowed = borrowed;
 
         }
 
@@ -101,7 +101,7 @@ namespace oop_assignment_1_2025_72672.Models
             BodyType = bodyType;
             RegistrationNumber = registrationNumber;
             Price = price;
-            Borrowed = false; 
+            Borrowed = false;
         }
         public RentalCar(string manufacturer, string model, string bodyType)
         {
@@ -114,9 +114,9 @@ namespace oop_assignment_1_2025_72672.Models
             Manufacturer = manufacturer;
             Model = model;
             BodyType = bodyType;
-            RegistrationNumber = "UNKNOWN"; 
-            Price = 0.0;                   
-            Borrowed = false;               
+            RegistrationNumber = "UNKNOWN";
+            Price = 0.0;
+            Borrowed = false;
         }
 
 
